@@ -7,6 +7,7 @@ Sous Windows, il faudra aussi s'assurer que les chemins suivants sont accesibles
 C:\Users\login\AppData\Local\Programs\Python\Python310\Scripts\
 C:\Users\login\AppData\Local\Programs\Python\Python310\
 Le lien suivant explique la modification des chemins selon la version de Windows utilisée: https://fr.mathworks.com/matlabcentral/answers/94933-how-do-i-edit-my-system-path-in-windows
+Le fichier zip nécessitera d'être décompressé avant utilisation.
 Il s'agira ensuite d'exécuter le Launcher (en ignorant d'éventuels messages d'avertissement),
 par exemple en double-cliquant sur celui-ci. Si les packages numpy, pandas, igraph, et Pillow ne sont pas déjà installés,
 ils peuvent être directement installés en cliquant sur "Installer les packages requis" dans la fenêtre ouverte par le Launcher.
